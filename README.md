@@ -28,3 +28,5 @@ For generated background for it.
 5. Run the Application:
 Click Run inpaint.
 
+![image](https://github.com/user-attachments/assets/cb386d54-9532-43dc-a8cf-d837bfdc759f)
+
